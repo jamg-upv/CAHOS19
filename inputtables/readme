@@ -1,2 +1,11 @@
 all the tables used for calculations if they are not available directly as web access
 
+ucisyquirof.csv: Camas por hospital
+hospitales.csv:hospital por departamento de salud 
+municipios.csv:municipios por departamento de salud
+censo.csvnumero de habitantes por municipio (desglosado por edad y sexo)
+CNErenave:  diario Casos-hosp-uci-def- by sexo-edad-provincia. acceso web https://cnecovid.isciii.es/covid19/resources/casos_hosp_uci_def_sexo_edad_provres.csv
+dataset1: transito de pacientes covid por el hospital
+dataset2:altas y bajas diarias y ocupación de hospital
+dataset3:Datastes generados Marin et al (2021)
+
