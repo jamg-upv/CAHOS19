@@ -4,6 +4,7 @@ Gestión de CAmas de HOSpital para pacientes COVID-19
 Resultados accesibles en https://cahos19.blogs.upv.es/category/dahsboard/
 ## Participantes:
 Juan A. Marin Garcia
+
 Yenniffer Alarcón Hidalgo
 
 ##
