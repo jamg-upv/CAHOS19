@@ -1,6 +1,7 @@
 # CAHOS19
 Gestión de CAmas de HOSpital para pacientes COVID-19
-Resultados accesibles en https://cahos19.blogs.upv.es/
+
+Resultados accesibles en https://cahos19.blogs.upv.es/category/dahsboard/
 
 ##
 # How to cite this work:
