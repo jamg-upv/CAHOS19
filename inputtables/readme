@@ -12,8 +12,8 @@ CNErenave:  diario Casos-hosp-uci-def- by sexo-edad-provincia. . Source: https:/
 
 dataset1: transito de pacientes covid por el hospital. Source:
 
-dataset2: ltas y bajas diarias y ocupación de hospital. Source:
+dataset2: altas y bajas diarias y ocupación de hospital. Source:
 
 dataset3: Datastes generados Marin et al (2021). Source: Marin-Garcia, J. A., Ruiz, A., Maheut, J., Garcia-Sabater, J. P. (2021). A data generator for COVID-19 patients’ care requirements inside hospitals: data paper. WPOM-Working Papers on Operations Management, 12 (in press). https://doi.org/10.4995/wpom.15332
 
-
+SIP_dep.csv: numero de personas con el SIP en cada departamento de salud. Source: http://www.san.gva.es/documents/157385/8958678/Memoria_2019_imprimir_es
