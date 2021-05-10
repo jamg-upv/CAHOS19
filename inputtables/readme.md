@@ -1,10 +1,9 @@
 all the tables used for calculations if they are not available directly as web access
 
 Recomendación para nombre de tablas: todo minusculas menos siglas de nombre propio o acronimos; siempre en csv para trabajar en python y tener control de versinoes en github; sin espacios, guiones o guiones bajos en el nombre (para poder hacer dobleclick y copiar el nombre); el nombre de fichero incluye extensión: .csv
-# Final tables:
+# Input tables with real figures:
 
 1. Capacidad_Asistencial_Historico_gobes.csv: Camas y UCIs por provincia. Source: https://www.mscbs.gob.es/profesionales/saludPublica/ccayes/alertasActual/nCov/documentos/Datos_Capacidad_Asistencial_Historico_10052021.csv
-2. camasUCIbyhospital.csv: Camas por hospital y estimación de UCIS como un 10% de las camas de ese hospital: fuente: 
 3. hospitales.csv:hospital por departamento de salud. Source:
 4. municipios.csv:municipios por departamento de salud. Source:
 5. censo.csv: numero de habitantes por municipio (desglosado por edad y sexo). Source:
