@@ -15,5 +15,5 @@ All the tables used for calculations if they are not available directly as web a
 10. SIPdep.csv: numero de personas con el SIP en cada departamento de salud. Source: (pag 55) http://www.san.gva.es/documents/157385/8958678/Memoria_2019_imprimir_es 
 
 # Test and Work in process tables:
-1. Cahos19-borrador-datos necesaariosShared-bloque1.csv  : modelo de prueba, con datos inventados, con las estructura del dataset1
-1. Cahos19-borrador-datos necesaariosShared-bloque2.csv  : modelo de prueba, con datos inventados, con las estructura del dataset2
+2. dataset1fake1.csv : modelo de prueba, con datos inventados, con las estructura del dataset1 based on COVID19simulated-1617990046-Dataset3advB-v3-rep1.xlsx (Marin Et al , 2021)
+3. dataset1fake2.csv : *(ver en outputtable)* modelo de prueba, con datos inventados, con las estructura del dataset2 (generado con una consulta de python a partir dataset1fake1.csv
