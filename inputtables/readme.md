@@ -1,11 +1,9 @@
 all the tables used for calculations if they are not available directly as web access
 # Final tables:
 
-1.ucisyquirof.csv: Camas por hospital. Source: 
-
-1.hospitales.csv:hospital por departamento de salud. Source:
-
-1.municipios.csv:municipios por departamento de salud. Source:
+1. ucisyquirof.csv: Camas por hospital. Source: 
+1. hospitales.csv:hospital por departamento de salud. Source:
+1. municipios.csv:municipios por departamento de salud. Source:
 
 censo.csv: numero de habitantes por municipio (desglosado por edad y sexo). Source:
 
