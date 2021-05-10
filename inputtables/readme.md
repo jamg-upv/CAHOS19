@@ -3,7 +3,7 @@ all the tables used for calculations if they are not available directly as web a
 Recomendación para nombre de tablas: todo minusculas menos siglas de nombre propio o acronimos; siempre en csv para trabajar en python y tener control de versinoes en github; sin espacios, guiones o guiones bajos en el nombre (para poder hacer dobleclick y copiar el nombre); el nombre de fichero incluye extensión: .csv
 # Final tables:
 
-1. ucisyquirof.csv: Camas por hospital. Source: 
+1. ucisyquirof.csv: Camas por hospital. Source: https://www.mscbs.gob.es/profesionales/saludPublica/ccayes/alertasActual/nCov/documentos/Datos_Capacidad_Asistencial_Historico_10052021.csv
 1. hospitales.csv:hospital por departamento de salud. Source:
 1. municipios.csv:municipios por departamento de salud. Source:
 1. censo.csv: numero de habitantes por municipio (desglosado por edad y sexo). Source:
