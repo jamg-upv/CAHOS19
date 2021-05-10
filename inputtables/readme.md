@@ -1,5 +1,6 @@
 all the tables used for calculations if they are not available directly as web access
-recomendación para nombre de tablas: todo minusculas menos siglas de nombre propio o acronimos; siempre en csv para trabajar en python y tener control de versinoes en github; sin espacios, guiones o guiones bajos en el nombre (para poder hacer dobleclick y copiar el nombre); el nombre de fichero incluye extensión: .csv
+
+Recomendación para nombre de tablas: todo minusculas menos siglas de nombre propio o acronimos; siempre en csv para trabajar en python y tener control de versinoes en github; sin espacios, guiones o guiones bajos en el nombre (para poder hacer dobleclick y copiar el nombre); el nombre de fichero incluye extensión: .csv
 # Final tables:
 
 1. ucisyquirof.csv: Camas por hospital. Source: 
