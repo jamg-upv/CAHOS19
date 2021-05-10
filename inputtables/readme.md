@@ -20,3 +20,5 @@ dataset3: Datastes generados Marin et al (2021). Source: Marin-Garcia, J. A., Ru
 SIP_dep.csv: numero de personas con el SIP en cada departamento de salud. Source: (pag 55) http://www.san.gva.es/documents/157385/8958678/Memoria_2019_imprimir_es 
 
 # Test and Work in process tables:
+1 Cahos19-borrador-datos necesaariosShared-bloque1.csv  : modelo de prueba, con datos inventqados, con las estructura del dataset1
+1 Cahos19-borrador-datos necesaariosShared-bloque2.csv  : modelo de prueba, con datos inventqados, con las estructura del dataset2
