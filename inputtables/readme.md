@@ -15,6 +15,8 @@ All the tables used for calculations if they are not available directly as web a
 9. dataset2.csv: altas y bajas diarias y ocupación de hospital. Source:
 10. dataset3.csv: Datastes generados Marin et al (2021). Source: Marin-Garcia, J. A., Ruiz, A., Maheut, J., Garcia-Sabater, J. P. (2021). A data generator for COVID-19 patients’ care requirements inside hospitals: data paper. WPOM-Working Papers on Operations Management, 12 (in press). https://doi.org/10.4995/wpom.15332
 11. SIPdep.csv: numero de personas con el SIP en cada departamento de salud. Source: (pag 55) http://www.san.gva.es/documents/157385/8958678/Memoria_2019_imprimir_es 
+12. latitudylongitudcapitalprovinciaesp.csv source: localización manual en google maps de cada capital de provincia española
+13. latitudylongituddeptosalud.csv source: localización manual en google maps de cada departamento salud (segun dirección de hospitales.csv y enlazado a través de  hospitalesbydepart.csv)
 
 # Test and Work in process tables:
 2. dataset1fake1.csv : modelo de prueba, con datos inventados, con las estructura del dataset1 based on COVID19simulated-1617990046-Dataset3advB-v3-rep1.xlsx Spirce: Marin-Garcia, J. A., Ruiz, A., Maheut, J., Garcia-Sabater, J. P. (2021). A data generator for COVID-19 patients’ care requirements inside hospitals: data paper. WPOM-Working Papers on Operations Management, 12 (in press). https://doi.org/10.4995/wpom.15332
