@@ -7,7 +7,7 @@ All the tables used for calculations if they are not available directly as web a
 1. Capacidad_Asistencial_Historico_gobes.csv: Camas y UCIs por provincia. Source: https://www.mscbs.gob.es/profesionales/saludPublica/ccayes/alertasActual/nCov/documentos/Datos_Capacidad_Asistencial_Historico_10052021.csv
 3. hospitales.csv:hospital por departamento de salud. Source:
 4. municipios.csv:municipios por departamento de salud. Source:
-5. censo.csv: numero de habitantes por municipio (desglosado por edad y sexo). Source:
+5. censo.csv: numero de habitantes por municipio (desglosado por edad y sexo). (no es necesaria, se sustitye por SIP) Source:
 6. CNErenave.csv:  diario Casos-hosp-uci-def- by sexo-edad-provincia. . Source: https://cnecovid.isciii.es/covid19/resources/casos_hosp_uci_def_sexo_edad_provres.csv
 7. dataset1.csv: transito de pacientes covid por el hospital. Source:
 8. dataset2.csv: altas y bajas diarias y ocupación de hospital. Source:
