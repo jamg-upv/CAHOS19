@@ -5,7 +5,7 @@ All the tables used for calculations if they are not available directly as web a
 # Input tables with real figures:
 
 1. Capacidad_Asistencial_Historico_gobes.csv: Camas y UCIs por provincia. Source: https://www.mscbs.gob.es/profesionales/saludPublica/ccayes/alertasActual/nCov/documentos/Datos_Capacidad_Asistencial_Historico_10052021.csv
-2. camasyucibyhospital.csv: camas y UCIS por hospital. Source:memoria GVA 2019 (tabla xxx, pag xx) solo tiene datos de camas. pendiente respuesta de petición a portal transparencia GOB.es (juan)
+2. Capacidad_Asistencialbyhospital.csv: camas y UCIS por hospital. Source:memoria GVA 2019 (tabla xxx, pag xx) solo tiene datos de camas. pendiente respuesta de petición a portal transparencia GOB.es (juan)
 3. hospitales.csv:hospital por departamento de salud. Source:Catálogo Nacional de Hospitales 2020 (CNH_2020) https://www.mscbs.gob.es/ciudadanos/prestaciones/centrosServiciosSNS/hospitales/home.htm
 4. municipios.csv:municipios por departamento de salud. Source:
 5. censo.csv: numero de habitantes por municipio (desglosado por edad y sexo). *(no es necesaria, se sustitye por SIP_dep.csv)* Source:
